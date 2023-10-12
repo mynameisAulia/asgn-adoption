@@ -1,0 +1,10 @@
+INSERT INTO `paws`(`id`, `name`, `address`, `latitude`, `longitude`) VALUES ('1','Looney','Meow Shelter Place, 01000 Kangar, Perlis','6.4335628','100.1956623');
+INSERT INTO `paws`(`id`, `name`, `address`, `latitude`, `longitude`) VALUES ('2','Snowball','Woof Home, 05100 Alor Setar, Kedah','6.1222065','100.365228');
+INSERT INTO `paws`(`id`, `name`, `address`, `latitude`, `longitude`) VALUES ('3','Mimi','Ribbit Care 02600 Arau, Perlis','6.42849834528','100.27287983');
+INSERT INTO `paws`(`id`, `name`, `address`, `latitude`, `longitude`) VALUES ('4','Shimba','Meow Shelter Place, 01000 Kangar, Perlis','6.4335628','100.1956623');
+INSERT INTO `paws`(`id`, `name`, `address`, `latitude`, `longitude`) VALUES ('5','Tuah','Woof Home, 05100 Alor Setar, Kedah','6.1222065','100.365228');
+INSERT INTO `paws`(`id`, `name`, `address`, `latitude`, `longitude`) VALUES ('6','Vivi','Meow Shelter Place, 01000 Kangar, Perlis','6.4335628','100.1956623');
+INSERT INTO `paws`(`id`, `name`, `address`, `latitude`, `longitude`) VALUES ('7','Walter','Ribbit Care 02600 Arau, Perlis','6.42849834528','100.27287983');
+INSERT INTO `paws`(`id`, `name`, `address`, `latitude`, `longitude`) VALUES ('8','Oyen','Meow Shelter Place, 01000 Kangar, Perlis','6.4335628','100.1956623');
+INSERT INTO `paws`(`id`, `name`, `address`, `latitude`, `longitude`) VALUES ('9','Bella','Woof Home, 05100 Alor Setar, Kedah','6.1222065','100.365228');
+INSERT INTO `paws`(`id`, `name`, `address`, `latitude`, `longitude`) VALUES ('10','Daegal','Woof Home, 05100 Alor Setar, Kedah','6.1222065','100.365228');
